@@ -22,6 +22,7 @@
     bot = telebot.TeleBot('TELEGRAM_BOT_TOKEN')
     
 Запустите бота:
+    
     python bot.py
 
 🎮 Как пользоваться
