@@ -72,11 +72,13 @@ Universal Telegram Bot (v0.1)
 Multifunctional bot for financial calculations and currency conversion
 
 📌 Key Features:
+
 💰 Balance calculation (income minus expenses)
 
 💱 Currency converter with popular pairs support
 
 ⚙️ Requirements:
+
 Python 3.6+
 
 Required libraries:
@@ -86,6 +88,7 @@ Required libraries:
     CurrencyConverter
 
 🛠 Installation:
+
 Install dependencies:
 
     pip install pyTelegramBotAPI CurrencyConverter
@@ -99,6 +102,7 @@ Run the bot:
     python bot.py
 
 🎮 How to use:
+
 Send /start command
 
         Select mode:
