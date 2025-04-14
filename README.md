@@ -67,6 +67,11 @@
 
 Точность расчетов зависит от актуальности курсов валют
 
+
+================================================================================================
+
+
+
 Universal Telegram Bot (v0.1)
 
 Multifunctional bot for financial calculations and currency conversion
