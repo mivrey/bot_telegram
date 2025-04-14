@@ -1,4 +1,5 @@
 Универсальный Telegram Бот (v0.1)
+
 Многофункциональный бот для финансовых расчетов и конвертации валют
 
 📌 Основные функции:
@@ -21,6 +22,7 @@
       CurrencyConverter
 
 🛠 Установка:
+
 Установите зависимости:
     
     pip install pyTelegramBotAPI CurrencyConverter
@@ -60,10 +62,13 @@
 ⚠️ Примечания:
 
 Все суммы должны быть положительными числами
+
 Для валютной конвертации используйте общепринятые коды валют
+
 Точность расчетов зависит от актуальности курсов валют
 
 Universal Telegram Bot (v0.1)
+
 Multifunctional bot for financial calculations and currency conversion
 
 📌 Key Features:
@@ -117,5 +122,7 @@ Send /start command
 ⚠️ Notes:
 
 All amounts must be positive numbers
+
 Use standard currency codes for conversion
+
 Calculation accuracy depends on current exchange rates
