@@ -11,10 +11,13 @@
     Python 3.6+
 
 Установленные библиотеки:
+1
 
-    pyTelegramBotAPI
+      pyTelegramBotAPI
 
-    CurrencyConverter
+2
+
+      CurrencyConverter
 
 🛠 Установка:
 Установите зависимости:
