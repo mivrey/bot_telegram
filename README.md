@@ -35,7 +35,7 @@
     
 Запустите бота:
 
-    python bot.py
+    python bot_convert.py
     
 🎮 Как пользоваться:
 
@@ -106,7 +106,7 @@ Replace bot token in code:
     
 Run the bot:
 
-    python bot.py
+    python bot_convert.py
 
 🎮 How to use:
 
